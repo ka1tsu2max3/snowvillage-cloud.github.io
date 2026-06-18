@@ -4,6 +4,10 @@
   xUrl: "https://x.com/Snowflake"
   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
+- name: Sate Katsuaki
+  affiliation: --
+  photo: ../../images/neighbors/sate_katsuaki.png
+  xUrl: "https://x.com/katsu_dailylake?s=11"
 
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
