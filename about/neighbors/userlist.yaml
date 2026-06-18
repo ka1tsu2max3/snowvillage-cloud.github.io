@@ -5,10 +5,19 @@
   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
 
+#  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
-#   photo: ../../images/neighbors/hanako.png
+#   photo: ../../images/neighbors/data_hanako.png
+#   linkedInUrl: "https://www.linkedin.com/in/XXXXX"
 
+#  「X」のアカウントのみあるケース
 # - name: スノー ジョン
 #   affiliation: フリーランス
-#   photo: ../../images/neighbors/john.png
+#   photo: ../../images/neighbors/snow_john.png
+#   xUrl: "https://x.com/Snowflake"
+
+#   どちらのアカウントもないケース
+# - name: 雪
+#   affiliation: 学生
+#   photo: ../../images/neighbors/yuki.png
